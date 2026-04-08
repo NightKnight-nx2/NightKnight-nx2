@@ -70,5 +70,5 @@ I am a passionate Computer Engineering student at Ege University (İzmir, Türki
 
 <br>
 <p align="center">
-  <i>"Committed to building impactful technology and fostering a diverse engineering community."</i>
+  <i>"Advancing Technology for Humanity"</i>
 </p>
