@@ -65,8 +65,10 @@ I am a passionate Computer Engineering student at Ege University (İzmir, Türki
 
 ### 📊 GitHub Stats
 
-![Musa's GitHub Stats](https://github-readme-stats-xi-seven-54.vercel.app/api?username=NightKnight-nx2&show_icons=true)
-![Top Languages](https://github-readme-stats-xi-seven-54.vercel.app/api/top-langs/?username=NightKnight-nx2)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-xi-seven-54.vercel.app/api?username=NightKnight-nx2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-xi-seven-54.vercel.app/api/top-langs/?username=NightKnight-nx2&layout=compact&theme=radical" />
+</p>
 
 <br>
 <p align="center">
