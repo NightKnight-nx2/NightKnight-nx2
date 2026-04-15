@@ -65,8 +65,8 @@ I am a passionate Computer Engineering student at Ege University (İzmir, Türki
 
 ### 📊 GitHub Stats
 
-[![Musa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightKnight-nx2&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF)](https://github.com/NightKnight-nx2)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NightKnight-nx2&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NightKnight-nx2)
+[![Musa's GitHub Stats](https://github-readme-stats-xi-seven-54.vercel.app/api?username=NightKnight-nx2&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF)](https://github.com/NightKnight-nx2)
+[![Top Languages](https://github-readme-stats-xi-seven-54.vercel.app/api/top-langs/?username=NightKnight-nx2&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NightKnight-nx2)
 
 <br>
 <p align="center">
