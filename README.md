@@ -14,6 +14,7 @@ I am a passionate Computer Engineering student at Ege University (İzmir, Türki
 - 🌱 Always learning: Blockchain (Web3), Advanced AI/Computer Vision, Communication Technologies and Robotics Simulation.
 - 🤝 Actively contributing as a Board Member & Treasurer at IEEE Ege Student Branch.
 - [💫 You can click here to visit my portfolio.](https://nightknight-nx2.github.io/Musa-Bugra-Demir/#)
+  [You can click here for the old version of my portfolio.](https://nightknight-nx2.github.io/Musa-Bugra-Demir--old-/#)
 
 --- 
 
